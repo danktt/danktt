@@ -3,9 +3,10 @@
 
 - 💻 I’m currently working as Programer ...
 - 📖 I’m currently learning Typescript and NextJs
+##
 
-
-<div>
+<h3 align="center"> Status </h3>
+<div align="center">
   <a href="https://github.com/danktt">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=danktt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=danktt&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -13,7 +14,7 @@
   
   ##
 
-  
+  <h3 align="center"> Technologies I  work with </h3>
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Danktt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Danktt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
