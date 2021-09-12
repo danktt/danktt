@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏽, I'm Danilo Miranda</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danilo Miranda</h1>
 
-
+## <h3 align="center"> About Me </h3>
 - 💻 I’m currently working as Programer ...
 - 📖 I’m currently learning Typescript and NextJs
-##
+
 
 <h3 align="center"> Status </h3>
 <div align="center">
@@ -14,7 +14,7 @@
   
   ##
 
-  <h3 align="center"> Technologies I  work with </h3>
+  <h3 align="center"> 🚀 Languages and Tools: </h3>
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Danktt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Danktt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +25,7 @@
    
   </div>
   
-  
+  ##
   
   
   
