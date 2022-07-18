@@ -2,7 +2,8 @@
 
 ## <h3 align="center"> About Me </h3>
 - 💻 I’m currently working as Programer
-- 📖 I’m currently learning Typescript and NextJs
+- 📖 I’m currently learning React Native
+
 
 
 <h3 align="center"> Status </h3>
