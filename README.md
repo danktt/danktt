@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" >, I'm Danilo Miranda</h1>
 
 ## <h3 align="center"> About Me </h3>
-- 💻 I’m currently working as Programer
-- 📖 I’m currently learning React Native
+
+- 💻 I’m currently working as Software engineer
+- 📖 I’m currently learning Angular 
 
 
 
