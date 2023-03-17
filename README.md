@@ -29,7 +29,7 @@
     <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/71_redux.da27ac619d.svg">
     <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/40_jest.5fde12ec22.svg">
   <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg">
- 
+ <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
   </div>
   
   ##
