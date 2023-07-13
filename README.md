@@ -26,8 +26,8 @@
     <img align="center" alt="Danktt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
    <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_97/3_tailwind-css-icon.5009c3dbea.svg">
-    <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/71_redux.da27ac619d.svg">
-    <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/40_jest.5fde12ec22.svg">
+<!--     <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/71_redux.da27ac619d.svg">
+    <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://symbols-electrical.getvecta.com/stencil_25/40_jest.5fde12ec22.svg"> -->
   <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg">
  <img align="center" alt="Danktt-SCSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
   </div>
