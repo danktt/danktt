@@ -13,6 +13,4 @@ LinkedIn: [@danilomiranda](https://linkedin.com/in/danilo-miranda15)
 - **Other:** TypeScript, React Query, Formik, Jest
 
 
-### 📊 Coding activity
 
-![](https://wakapi.dev/api/badge/danktt/interval:today?label=coding%20time%20today)
