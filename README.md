@@ -1,16 +1,7 @@
-# Danktt
+# Danilo Miranda
 
-Software Engineer.
+Software Engineer who enjoys building products, exploring new technologies, and turning ideas into software.
 
-X : [@_danktt](https://twitter.com/_danktt)  
-LinkedIn: [@danilomiranda](https://linkedin.com/in/danilo-miranda15)
+`React` `Next.js` `TypeScript` `Node.js` `Go` `PostgreSQL`
 
-
-
-### 🔧 Technologies & Tools
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Go, Node.js, Laravel
-- **Other:** TypeScript, React Query, Formik, Jest
-
-
-
+[LinkedIn](https://linkedin.com/in/danilo-miranda15) · [X](https://x.com/danilomirandaa_)
